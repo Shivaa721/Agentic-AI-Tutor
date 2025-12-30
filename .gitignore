@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+venv/
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
